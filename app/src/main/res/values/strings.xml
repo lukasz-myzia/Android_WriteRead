@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Zapis Odczyt</string>
+    <string name="textView_nazwa">Podaj nazwę pliku</string>
+    <string name="textView_zawartosc">Wprowadź zawartość pliku:</string>
+    <string name="textView_tryb">Wybierz dostęp:</string>
+    <string name="button_zapis">ZAPISZ DANE</string>
+    <string name="button_odczyt">Odczytaj dane</string>
+    <string name="textView_komunikat"/>
+    <string name="brakNazwy">Brak Nazwy</string>
+    <string name="textView_tresc"> Tu będzie zawartość pliku...</string>
+    <string name="brakZawartosci">Nie podano zawartości pliku</string>
+    <string name="Blad">Wystąpił błąd wejścia/wyjścia</string>
+
+    <string-array name="tryb" traslatable="false">
+        <item> private </item>
+        <item> readable </item>
+        <item> writable </item>
+        <item> read &amp; write </item>
+        <item>hex > dec </item>
+    </string-array>
+
+</resources>
